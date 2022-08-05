@@ -1,2 +1,3 @@
 # SpringProjects
-My simple spring projects.
+Student Management System
+  Thymeleaf used.

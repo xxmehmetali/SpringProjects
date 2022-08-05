@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xml:th="http://www.thymeleaf.org">
+<html>
+    <head>
+        <title>Student Management System</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"/>
+    </head>
+<body>
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Student Management System</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link" th:href="@{/students}">Students</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+
+    <div class="container">
+        <div class="row">
+            <h1>List of Students</h1>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <a th:href = "@{/students/new}" class="btn btn-primary btn-sm mb-3">Add New Student</a>
+            </div>
+        </div>
+        <table class="table">
+            <thead class="table-dark">
+            <tr>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            <tr th:each = "student : ${students}">
+                <th th:text="${student.firstName}"></th>
+                <th th:text="${student.lastName}"></th>
+                <th th:text="${student.email}"></th>
+                <th>
+                    <a th:href="@{/students/edit/{id}(id=${student.id})}" class="btn btn-primary btn-sm">Update</a>
+                    <a th:href="@{/students/delete/{id}(id=${student.id})}" class="btn btn-danger btn-sm">Delete</a>
+                </th>
+
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

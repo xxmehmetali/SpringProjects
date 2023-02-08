@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8635dd1d-ea07-4c33-b96d-db151112da1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KefhmunQUQ0B6Okifxs8MKuGwY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8635dd1d-ea07-4c33-b96d-db151112da1c" name="Default Changelist" comment="" />
+      <created>1674340090364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674340090364</updated>
+      <workItem from="1674340093301" duration="541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2160" y="203" width="1267" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1674340480763">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2160" y="203" width="1267" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1674340480763" />
+    <state x="2688" y="227" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1674340284596">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="227" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1674340284596" />
+    <state x="2251" y="161" width="1024" height="852" key="SettingsEditor" timestamp="1674340626094">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2251" y="161" width="1024" height="852" key="SettingsEditor/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1674340626094" />
+  </component>
+</project>

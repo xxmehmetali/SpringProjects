@@ -1,0 +1,23 @@
+@Component and @Bean can be used interchangeably.
+You can create as many instances of class via @Bean annotation
+BUT you can only create one instance of class via @Component (generally enough).
+
+Note that application context is created with ProjectConfig.
+Case 1:
+    Bean1 has no @Component annotation but is declared in ProjectConfig.
+    ProjectConfig has @Configuration annotation. Beans are declared as methods in this class with @Bean annotation. Same type of class can be declared more than once and can be used by bean id.
+     @Bean(name = "myBeanId1")
+     @Bean(value = "myBeanId2")
+
+    usage :
+        parameters : beanId, beanType
+     Bean1 b2 = applicationContext.getBean("myBean2", Bean1.class);
+     // either it has one bean declared or more than one bean but one is declared with @Primary annotation
+     Bean1 b2 = applicationContext.getBean(Bean1.class);
+
+     If you try to not use beanId and overload beans, than you will have an error. So you need to have a primary bean. You can achieve this by usign @Primary annotation on which bean is going to be used.
+
+Case 2:
+    Bean2 has @Component annotation. But cannot be used directly because ProjectConfig cannot see it. In order ProjectConfig to see Bean2, ProjectConfig has to have @ComponentScan(basePackages = "beans") annotation. basePackages will search the package and take all classes annotated with @Component and put it in the context.
+
+StereoType annotations are : @Component, @Service, @Repository, @Controller, @RestController

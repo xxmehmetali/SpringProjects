@@ -1,0 +1,22 @@
+@Autowired(required=false)
+will make spring act like : if I can find a bean, I will inject it but if I can't find anything, I will assign null to the field.
+This will make your program work if you don't have a bean (type is specified in the class) in your context but it will also cause future problems like null pointer exceptions. In first place you declared a field to use but if you don't have a bean and assign a null value to field, it is unavoidable to experience null pointer exception.
+
+
+Qualifier and beans :
+You can have multiple beans with same Qualifier name but bean name in spring application context needs to be unique
+
+    @Bean
+    @Qualifier("qualifier1")
+    Foo foo()
+    {
+        return new Foo();
+    }
+
+    @Bean
+    @Qualifier("qualifier1")
+    Bar bar()
+    {
+        return new Bar();
+    }
+The above code is acceptable. but in the case of bean, it is not.

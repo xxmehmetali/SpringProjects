@@ -1,0 +1,7 @@
+
+HelloService > HelloServiceEn - HelloServiceEs
+
+When you try to use HelloService typed bean in Person class, you will have an error that says there are 2 possible implementations. HelloServiceEn and HelloServiceEs. So you have to put @Primary annotation one of them or give them qualifier and use the qualifier.
+
+Let's say you have @Primary annotation on HelloServiceEn class but want to use HelloServiceEs. If you put @Qualifier annotation both of them marking as "helloServiceEn" and "helloServiceEs", you will get the HelloServiceEs bean if you put @Qualifier("HelloServiceEs") on HelloService even though you put @Primary on HelloServiceEn.
+

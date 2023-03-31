@@ -1,0 +1,2 @@
+Transaction uses aop (@Before, @After, @Around, ...). It intercepts the method and do the work based on circumstance.
+Transaction manager rollsback changes if runtime exception occurs. Not checked exceptions defaultly.

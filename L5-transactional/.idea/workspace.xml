@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="177045d0-eb3f-47a1-bdbe-57f211222929" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloServiceEn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloServiceEs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/aspects/HelloServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/services/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NjugwWmy6F75YQ28BcScZfr2lg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="L5-transactional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="177045d0-eb3f-47a1-bdbe-57f211222929" name="Changes" comment="" />
+      <created>1680189929999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680189929999</updated>
+      <workItem from="1680189931149" duration="7743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

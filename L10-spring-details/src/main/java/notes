@@ -1,0 +1,3 @@
+
+**hibernate and jdbctemplate both are the implementations of jpa
+**spring data jpa uses hibernate on default but this can be changed.

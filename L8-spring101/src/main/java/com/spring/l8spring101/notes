@@ -1,0 +1,62 @@
+
+@Controller vs @RestController
+A method in A class annotated with @Controller will return an html response.
+Below code will try to find x.jsp in resources.static package and render it, put it into body of response.
+        @Controller
+        @RequestMapping("/h1")
+        public class HelloController {
+            @RequestMapping("x")
+            public String x(){
+                return "x";
+            }
+        }
+
+Below code will return demotext in body of response. It will not try to render anything.
+Returning value will be put into body directly.
+        @RestController
+        @RequestMapping("/h2")
+        public class HelloController2 {
+            @GetMapping
+            public String a(){
+                return "demotext";
+            }
+        }
+We can achieve this behaivour by putting @ReponseBody to a method or class.
+Below code will not try to find anything in static folder. Because we ordered x method to put returning value directly to body of reponse.
+        @Controller
+        @RequestMapping("/h1")
+        public class HelloController {
+            @RequestMapping("x")
+            @ReponseBody
+            public String x(){
+                return "x";
+            }
+        }
+
+Putting @ResponseBody on a class will affect all the methods in that class. @ResponseBody will be valid for all methods.
+        @Controller
+        @ResponseBody
+        @RequestMapping("/h1")
+        public class HelloController {
+            @RequestMapping("x")
+            public String x(){
+                return "x";
+            }
+        }
+
+Actually this points @RestController.
+@RestController = @Controller + @ResponseBody
+
+@RestController =
+...
+@Controller
+@ResponseBody
+public @interface RestController {
+...
+
+
+@Controller =
+...
+@Component
+public @interface Controller {
+...

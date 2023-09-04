@@ -1,0 +1,13 @@
+Propagation.REQUIRED        = creates a new transaction if there is no transaction where it is called.
+                                if there is a transaction already, method uses current transaction
+Propagation.REQUIRES_NEW    = always creates a new transaction strictly
+Propagation.MANDATORY       = method which is annotated with this propagation MANDATORY has to be called from method which has a transaction
+Propagation.NEVER           = method which is annotated with this propagation NEVER has to be called from method which doosn't have a transaction
+                                opposite of mandatory
+Propagation.SUPPORTED       = method will use if there is a transaction from caller. If caller doesn't have a transaction, it doesn't use any transaction. runs without a transaction.
+Propagation.NOT_SUPPORTED   = method will work both if the caller has a transaction or not.
+                               the key point here is that if the caller has a transaction, the method works by ignoring that transaction. method doesnt use the transaction.
+
+
+
+

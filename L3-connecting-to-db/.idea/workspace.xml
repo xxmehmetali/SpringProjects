@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3949cd5-7eda-4e59-aac5-2076c6d3b5fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/ear/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/ejbs/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/ejbs/src/main/resources/META-INF/ejb-jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/primary-source/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/projects/logging/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/projects/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/servlets/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/servlets/servlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/servlets/servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/servlets/servlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d3949cd5-7eda-4e59-aac5-2076c6d3b5fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/xxmehmetali/Desktop/projects/SpringProjects/L3-connecting-to-db",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +50,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "d32407e3baeb8c9c4a5cbb5a22f94884",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -134,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679528958098</updated>
       <workItem from="1679528959156" duration="3631000" />
+      <workItem from="1691188158718" duration="303000" />
     </task>
     <servers />
   </component>

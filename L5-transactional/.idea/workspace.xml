@@ -5,60 +5,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="177045d0-eb3f-47a1-bdbe-57f211222929" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/main/java/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3-connecting-to-db/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloServiceEn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/HelloServiceEs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/demo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/main/java/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L3p2-multiple-candidate-beans/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/aspects/HelloServiceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/java/services/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../L4-aspect-oriented-prog/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L1-bean-explained/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/L10SpringDetailsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/com/spring/l10springdetails/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/java/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L10-spring-details/src/test/java/com/spring/l10springdetails/L10SpringDetailsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/java/com/spring/l11springdata/L11SpringdataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/java/com/spring/l11springdata/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/java/com/spring/l11springdata/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/java/com/spring/l11springdata/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/java/com/spring/l11springdata/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L11-springdata/src/test/java/com/spring/l11springdata/L11SpringdataApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/main/java/com/spring/l12springdata/L12SpringdataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/main/java/com/spring/l12springdata/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/main/java/com/spring/l12springdata/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/main/java/com/spring/l12springdata/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L12-springdata/src/test/java/com/spring/l12springdata/L12SpringdataApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/main/java/com/spring/l14webscopes/L14WebscopesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/main/java/com/spring/l14webscopes/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/main/java/com/spring/l14webscopes/services/RandomNumberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L14-webscopes/src/test/java/com/spring/l14webscopes/L14WebscopesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/src/main/java/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/src/main/java/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6-transaction-propagation/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6p2-transaction-ioc-example/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6p2-transaction-ioc-example/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6p2-transaction-ioc-example/src/main/java/beans/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6p2-transaction-ioc-example/src/main/java/beans/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L6p2-transaction-ioc-example/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/src/main/java/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/src/main/java/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/src/main/java/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L7-transaction-isolation/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/src/main/java/com/spring/l8spring101/L8Spring101Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/src/main/java/com/spring/l8spring101/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/src/main/java/com/spring/l8spring101/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L8-spring101/src/test/java/com/spring/l8spring101/L8Spring101ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/src/main/java/com/spring/l9springrestendpoints/L9SpringRestendpointsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/src/main/java/com/spring/l9springrestendpoints/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/src/main/java/com/spring/l9springrestendpoints/dtos/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L9-spring-restendpoints/src/test/java/com/spring/l9springrestendpoints/L9SpringRestendpointsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L3-connecting-to-db/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,19 +129,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/xxmehmetali/Desktop/projects/SpringProjects/L5-transactional&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;71aaafe792fda78eeabba8fffd35b22a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
@@ -132,6 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1680189929999</updated>
       <workItem from="1680189931149" duration="7743000" />
+      <workItem from="1691189095197" duration="1088000" />
+      <workItem from="1691190439346" duration="11000" />
+      <workItem from="1691342786953" duration="1934000" />
+      <workItem from="1691361745119" duration="1157000" />
+      <workItem from="1691602013741" duration="5000" />
+      <workItem from="1691705529841" duration="16000" />
     </task>
     <servers />
   </component>
